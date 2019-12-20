@@ -1,2 +1,2 @@
 # Othello
-Implementation of Othello in ARM
+Implementation of Othello/Reversi in ARM
